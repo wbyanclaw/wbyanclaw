@@ -2,7 +2,7 @@
 
 Welcome. `yanwenbo.site` is the main entry to my public work across AI agents, orchestration systems, and experimental products.
 
-> What you usually need is not another answer, but someone who can help you finally get the thing done.
+> Less talk. More done.
 
 ## Entry
 
