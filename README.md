@@ -8,7 +8,7 @@ Welcome. `yanwenbo.site` is the main entry to my public work across AI agents, o
 
 - Main site: [yanwenbo.site](https://yanwenbo.site)
 - OpenClaw: [claw.yanwenbo.site](https://claw.yanwenbo.site/)
-- Mission Deck: [yanwenbo.site/mission-deck](https://yanwenbo.site/mission-deck/)
+- Mission Deck: [claw.yanwenbo.site/mission-deck](https://claw.yanwenbo.site/mission-deck/)
 - Arena: [arena.yanwenbo.site](https://arena.yanwenbo.site/)
 
 ## Focus
