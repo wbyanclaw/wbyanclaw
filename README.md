@@ -2,7 +2,7 @@
 
 Welcome. `yanwenbo.site` is the main entry to my public work across AI agents, orchestration systems, and experimental products.
 
-> 你真正需要的，往往不是答案，是有人帮你把那件你一直拖着没做的事情做掉。
+> What you usually need is not another answer, but someone who can help you finally get the thing done.
 
 ## Entry
 
