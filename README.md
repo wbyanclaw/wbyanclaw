@@ -1,8 +1,8 @@
 # Welcome
 
-Welcome. `yanwenbo.site` is the main entry to my public work across AI agents, orchestration systems, and experimental products.
+Welcome to the lab. `yanwenbo.site` is an open canvas for experimenting with autonomous systems. If it’s an ambitious theory about AI architecture, this is where we write the code to prove it.
 
-> Less talk. More done.
+> Ideas Welcomed. Agents Verified.
 
 ## Contact
 
